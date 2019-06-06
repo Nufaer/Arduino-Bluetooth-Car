@@ -1,2 +1,2 @@
-# Arduino-projects
-My projects made with arduino microcontroller.
+# Bluetooth controlled car
+made with arduino microcontroller.
