@@ -1,2 +1,5 @@
 # Bluetooth controlled car
-made with arduino microcontroller.
+## Build
+- made with arduino microcontroller.
+- 4 wheel with four motor
+- Bluetooth module
